@@ -70,8 +70,37 @@
 	float: right;
 	font-family: arial, sans-serif;
 	font-size: 13px;
+	background-color: pink;
 }
 #bottom{
 	float: bottom;
+	clear: both;
+	height: 400px;
+	position: relative;
+	bottom: 0;
+}
+
+#thetable{
+	background-color: gray;
+}
+#left{
+	position: absolute;
+	bottom: 0;
+	left: 20px;
 	
+}
+#right{
+	position: absolute;
+	bottom: 0;
+	right: 20px;
+	
+}
+
+div a{
+	text-decoration: none;
+	color: black;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	margin: 5px; 
+	margin-top: 10px;
 }
