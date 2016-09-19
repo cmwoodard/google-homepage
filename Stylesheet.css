@@ -1,0 +1,50 @@
+
+/*#logo{	
+	display: block;
+	position: absolute;
+	top: 28%;
+	left: 40%;   
+}*/
+.center{
+	}
+#topbar{
+	height: 200px;
+	display: block;
+	margin: auto;
+}
+#logo{
+	height: 100px;
+	width: 300px;
+	display: block;
+	margin: auto;
+	margin-bottom: 10px;
+}
+
+#searchbar{
+	width: 450px;
+	height: 25px;
+	margin: auto;
+	display: block;
+	border: 1px solid gray;
+}
+
+#button1{	
+	margin: auto;
+	margin-left: 38%;
+	margin-top: 40px;
+    width: 150px;
+	height: 25px;
+    display: block;
+	float:left;
+	
+	/*border: 1px solid gray;*/
+}
+#button2{	
+	margin: auto;
+	margin-right: 38%;
+	margin-top: 40px;
+    width: 150px;
+	height: 25px;
+    display: inline-block;
+	float: right;
+}
